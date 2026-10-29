@@ -1,0 +1,5 @@
+com\klef\ps024\gateway\security\GatewaySecurityConfig.class
+com\klef\ps024\gateway\ApiGatewayApplication.class
+com\klef\ps024\gateway\security\JwtConfiguration.class
+com\klef\ps024\gateway\GatewayRoutesConfiguration.class
+com\klef\ps024\gateway\security\JwtAuthenticationFilter.class

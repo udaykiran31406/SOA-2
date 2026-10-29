@@ -1,0 +1,5 @@
+C:\Users\HP\Downloads\Automotive Fleet Maintenance & Service Operations Platform\PS024-Fleet-Platform\api-gateway\src\main\java\com\klef\ps024\gateway\ApiGatewayApplication.java
+C:\Users\HP\Downloads\Automotive Fleet Maintenance & Service Operations Platform\PS024-Fleet-Platform\api-gateway\src\main\java\com\klef\ps024\gateway\GatewayRoutesConfiguration.java
+C:\Users\HP\Downloads\Automotive Fleet Maintenance & Service Operations Platform\PS024-Fleet-Platform\api-gateway\src\main\java\com\klef\ps024\gateway\security\GatewaySecurityConfig.java
+C:\Users\HP\Downloads\Automotive Fleet Maintenance & Service Operations Platform\PS024-Fleet-Platform\api-gateway\src\main\java\com\klef\ps024\gateway\security\JwtAuthenticationFilter.java
+C:\Users\HP\Downloads\Automotive Fleet Maintenance & Service Operations Platform\PS024-Fleet-Platform\api-gateway\src\main\java\com\klef\ps024\gateway\security\JwtConfiguration.java

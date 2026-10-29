@@ -1,0 +1,17 @@
+com\klef\ps024\vehicle\exception\ApiError.class
+com\klef\ps024\vehicle\dto\package-info.class
+com\klef\ps024\vehicle\dto\VehicleRequest.class
+com\klef\ps024\vehicle\entity\VehicleStatus.class
+com\klef\ps024\vehicle\service\VehicleService.class
+com\klef\ps024\vehicle\VehicleServiceApplication.class
+com\klef\ps024\vehicle\security\SecurityConfig.class
+com\klef\ps024\vehicle\exception\VehicleExceptionHandler.class
+com\klef\ps024\vehicle\repository\VehicleRepository.class
+com\klef\ps024\vehicle\exception\InvalidVehicleException.class
+com\klef\ps024\vehicle\exception\DuplicateRegistrationNumberException.class
+com\klef\ps024\vehicle\dto\VehicleResponse.class
+com\klef\ps024\vehicle\security\JwtConfiguration.class
+com\klef\ps024\vehicle\exception\package-info.class
+com\klef\ps024\vehicle\controller\VehicleController.class
+com\klef\ps024\vehicle\entity\Vehicle.class
+com\klef\ps024\vehicle\exception\VehicleNotFoundException.class

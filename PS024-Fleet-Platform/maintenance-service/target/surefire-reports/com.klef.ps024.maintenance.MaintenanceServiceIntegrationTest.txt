@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.klef.ps024.maintenance.MaintenanceServiceIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.80 s -- in com.klef.ps024.maintenance.MaintenanceServiceIntegrationTest

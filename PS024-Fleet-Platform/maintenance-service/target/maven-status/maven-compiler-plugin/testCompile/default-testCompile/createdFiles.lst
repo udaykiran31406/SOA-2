@@ -1,0 +1,3 @@
+com\klef\ps024\maintenance\service\vehicle\VehicleServiceReferenceValidatorTest.class
+com\klef\ps024\maintenance\exception\MaintenanceExceptionHandlerTest.class
+com\klef\ps024\maintenance\MaintenanceServiceIntegrationTest.class
